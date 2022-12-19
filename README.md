@@ -1,2 +1,4 @@
-# Documentacion de Git
-Documentacion personal de GIT
+### Instalar git con apt
+```
+sudo apt install git
+```
